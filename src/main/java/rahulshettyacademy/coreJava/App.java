@@ -6,5 +6,12 @@ package rahulshettyacademy.coreJava;
 public class App {
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        
+        System.out.println("B.Demo");
+        System.out.println("B.Demo");
+        System.out.println("B.Demo");
+        System.out.println("B.Demo");
+        
+        
     }
 }
