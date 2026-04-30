@@ -33,6 +33,8 @@ public class ArrayListDemo {
 		 b.add("cherry");
 		 b.add("mango");
 		 b.add("apple");
+		 b.add("Lilly");
+		 b.add("Sunflower");
 		 System.out.println(b);
 		 
 		 if(b.contains("apple"))
